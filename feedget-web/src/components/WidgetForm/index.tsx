@@ -68,7 +68,7 @@ export const WidgetForm = () => {
             href="https://github.com/brunomileto"
             className="underline underline-offset-1"
           >
-            RocketSeat
+            Bruno Mileto
           </a>
         </footer>
       </div>
